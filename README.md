@@ -1,6 +1,6 @@
 # VLSI-KMNIST-Recognition-FPGA (Using Tensorflow keras)
 Machine Learning Section from Very Large Scale Integration final project on Institut Teknologi Bandung that will be implemented on FPGA.
-
+by:Robertsen Putra Sugianto
 
 ## Background
 
